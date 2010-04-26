@@ -25,7 +25,8 @@ page << <<EOJ
     map.addControl(box);
 
     transform = new OpenLayers.Control.TransformFeature(vectors, {
-      rotate: false
+      rotate: false,
+      irregular: true
     });
     transform.events.register("transformcomplete", transform, transformComplete);
     map.addControl(transform);

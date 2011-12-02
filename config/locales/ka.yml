@@ -231,7 +231,7 @@ ka:
       latitude: "განედი:"
       location: "მდებარეობა:"
       longitude: "გრძედი:"
-      save_button: შენახვა
+      save_changes_button: ცვლილებების შენახვა
       subject: "თემა:"
       use_map_link: რუკაზე ჩვენება
     list: 

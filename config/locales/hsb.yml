@@ -324,7 +324,7 @@ hsb:
       location: "Městno:"
       longitude: "Dołhostnik:"
       marker_text: Městno dźenikoweho zapiska
-      save_button: Składować
+      save_changes_button: Změny składować
       subject: "Nastupa:"
       title: Dźenikowy zapisk wobdźěłać
       use_map_link: kartu wužiwać

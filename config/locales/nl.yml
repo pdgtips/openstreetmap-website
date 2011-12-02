@@ -319,7 +319,7 @@ nl:
       location: "Locatie:"
       longitude: "Lengtegraad:"
       marker_text: Locatie van bericht
-      save_button: Opslaan
+      save_changes_button: Wijzigingen opslaan
       subject: "Onderwerp:"
       title: Dagboekbericht bewerken
       use_map_link: kaart gebruiken

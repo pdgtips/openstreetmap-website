@@ -335,7 +335,7 @@ de:
       location: "Ort:"
       longitude: "Längengrad:"
       marker_text: Ort des Eintrags
-      save_button: Speichern
+      save_changes_button: Änderungen speichern
       subject: "Betreff:"
       title: Eintrag bearbeiten
       use_map_link: Karte anzeigen

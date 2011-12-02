@@ -317,7 +317,7 @@ sr-EL:
       location: "Lokacija:"
       longitude: "Geografska dužina:"
       marker_text: Lokacija unosa u dnevniku
-      save_button: Sačuvaj
+      save_changes_button: Sačuvaj izmene
       subject: "Tema:"
       title: Uredi unos u dnevniku
       use_map_link: koristi mapu

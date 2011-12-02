@@ -327,7 +327,7 @@ sv:
       location: "Plats:"
       longitude: "Longitud:"
       marker_text: Plats för inlägg
-      save_button: Spara
+      save_changes_button: Spara ändringar
       subject: "Ärende:"
       title: Redigera dagboksanteckning
       use_map_link: använd karta

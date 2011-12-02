@@ -314,7 +314,7 @@ ast:
       location: "Allugamientu:"
       longitude: "Llonxitú:"
       marker_text: Allugamientu de la entrada del diariu
-      save_button: Guardar
+      save_changes_button: Guardar cambeos
       subject: "Asuntu:"
       title: Editar entrada del diariu
       use_map_link: usar mapa

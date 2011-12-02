@@ -32,7 +32,7 @@ class DiaryEntryControllerTest < ActionController::TestCase
             assert_select "textarea#diary_entry_body[name='diary_entry[body]']", :count => 1
             assert_select "input#latitude[name='diary_entry[latitude]'][type=text]", :count => 1
             assert_select "input#longitude[name='diary_entry[longitude]'][type=text]", :count => 1
-            assert_select "input[name=commit][type=submit][value=Save]", :count => 1
+            assert_select "input[name=commit][type=submit][value=Publish]", :count => 1
           end
         end
       end
@@ -81,7 +81,7 @@ class DiaryEntryControllerTest < ActionController::TestCase
             assert_select "select#diary_entry_language_code", :count => 1
             assert_select "input#latitude[name='diary_entry[latitude]']", :count => 1
             assert_select "input#longitude[name='diary_entry[longitude]']", :count => 1
-            assert_select "input[name=commit][type=submit][value=Save]", :count => 1
+            assert_select "input[name=commit][type=submit][value=Save Changes]", :count => 1
             assert_select "input", :count => 5
           end
         end

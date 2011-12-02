@@ -325,7 +325,7 @@ cs:
       location: "Místo:"
       longitude: "Zeměpisná délka:"
       marker_text: Místo deníčkového záznamu
-      save_button: Uložit
+      save_changes_button: Uložit změny
       subject: "Předmět:"
       title: Upravit deníčkový záznam
       use_map_link: použít mapu

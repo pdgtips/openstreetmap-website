@@ -321,6 +321,7 @@ en:
       sorry: "Sorry, the list of changesets you requested took too long to retrieve."
   diary_entry:
     new:
+      publish_button: "Publish"
       title: New Diary Entry
     list:
       title: "Users' diaries"
@@ -341,7 +342,7 @@ en:
       latitude: "Latitude:"
       longitude: "Longitude:"
       use_map_link: "use map"
-      save_button: "Save"
+      save_changes_button: "Save Changes"
       marker_text: Diary entry location
     view:
       title: "%{user}'s diary | %{title}"

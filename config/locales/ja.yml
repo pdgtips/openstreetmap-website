@@ -313,7 +313,7 @@ ja:
       location: "地域:"
       longitude: "経度:"
       marker_text: 日記のロケーション
-      save_button: 保存
+      save_changes_button: 変更を保存
       subject: "タイトル:"
       title: 日記の編集
       use_map_link: 地図で指定する

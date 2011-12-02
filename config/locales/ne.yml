@@ -156,7 +156,7 @@ ne:
       location: "स्थान:"
       longitude: "अक्षांश:"
       marker_text: दैनिकी प्रविष्ठी स्थान
-      save_button: संग्रह गर्ने
+      save_changes_button: परिवर्तनहरु संग्रह गर्नुहोस \
       subject: "विषय:"
       title: दैनिकी प्रविष्ठी सम्पादन गर्ने
       use_map_link: नक्सा प्रयोगर्ने

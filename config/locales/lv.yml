@@ -279,7 +279,7 @@ lv:
       location: "Atrašanās vieta:"
       longitude: "Garums:"
       marker_text: Dienasgrāmatas ieraksta atrašanās vieta
-      save_button: Saglabāt
+      save_changes_button: Saglabāt izmaiņas
       subject: "Temats:"
       title: Rediģēt dienasgrāmatas ierakstu
       use_map_link: izmantot karti

@@ -257,7 +257,7 @@ eo:
       latitude: "Latitudo:"
       location: "Loko:"
       longitude: "Longitudo:"
-      save_button: Konservi
+      save_changes_button: Konservi Ŝanĝojn
       use_map_link: uzi mapon
     list: 
       newer_entries: Pli novaj enskriboj

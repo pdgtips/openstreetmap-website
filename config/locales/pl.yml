@@ -324,7 +324,7 @@ pl:
       location: "Położenie:"
       longitude: "Długość geograficzna:"
       marker_text: Umiejscowienie wpisu dziennika
-      save_button: Zapisz
+      save_changes_button: Zapisz zmiany
       subject: "Temat:"
       title: Edycja wpisu dziennika
       use_map_link: na mapie

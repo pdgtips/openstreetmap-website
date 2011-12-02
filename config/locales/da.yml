@@ -318,7 +318,7 @@ da:
       location: "Position:"
       longitude: "Længdegrad:"
       marker_text: Position for blogindlæg
-      save_button: Gem
+      save_changes_button: Gem ændringer
       subject: "Emne:"
       title: Ret blogindlæg
       use_map_link: brug kort

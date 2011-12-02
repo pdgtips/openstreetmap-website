@@ -272,7 +272,7 @@ tr:
       location: "Konum:"
       longitude: "Boylam:"
       marker_text: Girdisinin konumu
-      save_button: Kaydet
+      save_changes_button: Değişiklikleri Kaydet
       subject: "Konu:"
       title: Günlük girdisi düzenle
       use_map_link: Haritayı kullanarak belirt

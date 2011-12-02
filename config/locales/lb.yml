@@ -196,7 +196,7 @@ lb:
     edit: 
       language: "Sprooch:"
       location: "Plaz:"
-      save_button: Späicheren
+      save_changes_button: Ännerunge späicheren
       subject: "Sujet:"
       use_map_link: Kaart benotzen
     location: 

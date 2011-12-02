@@ -310,7 +310,7 @@ zh-TW:
       location: 位置：
       longitude: 經度：
       marker_text: 日記項目位置
-      save_button: 儲存
+      save_changes_button: 儲存變更
       subject: 主旨：
       title: 編輯日記項目
       use_map_link: 使用地圖

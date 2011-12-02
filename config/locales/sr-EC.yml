@@ -322,7 +322,7 @@ sr-EC:
       location: "Локација:"
       longitude: "Географска дужина:"
       marker_text: Локација уноса у дневнику
-      save_button: Сачувај
+      save_changes_button: Сачувај измене
       subject: "Тема:"
       title: Уреди унос у дневнику
       use_map_link: користи мапу

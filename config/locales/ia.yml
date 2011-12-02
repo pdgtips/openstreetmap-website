@@ -314,7 +314,7 @@ ia:
       location: "Loco:"
       longitude: "Longitude:"
       marker_text: Loco de entrata de diario
-      save_button: Salveguardar
+      save_changes_button: Salveguardar modificationes
       subject: "Subjecto:"
       title: Modificar entrata de diario
       use_map_link: usar carta

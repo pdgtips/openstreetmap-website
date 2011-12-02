@@ -240,7 +240,7 @@ pt:
       latitude: "Latitude:"
       location: "Localização:"
       longitude: "Longitude:"
-      save_button: Salvar
+      save_changes_button: Gravar Alterações
       subject: "Assunto:"
       use_map_link: usar mapa
     location: 

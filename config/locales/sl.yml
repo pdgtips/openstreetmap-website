@@ -317,7 +317,7 @@ sl:
       location: "Lokacija:"
       longitude: "Z. dolžina:"
       marker_text: Lokacija, na katero se nanaša zapis
-      save_button: Shrani
+      save_changes_button: Shrani spremembe
       subject: "Naslov:"
       title: Uredi zapis v dnevnik
       use_map_link: uporabi zemljevid

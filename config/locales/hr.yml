@@ -313,7 +313,7 @@ hr:
       location: "Lokacija:"
       longitude: "Geografska dužina (Longitude):"
       marker_text: Lokacija unosa u dnevnik
-      save_button: Spremi
+      save_changes_button: Snimi promjene
       subject: "Predmet:"
       title: Uredi zapis u dnevniku
       use_map_link: koristi kartu

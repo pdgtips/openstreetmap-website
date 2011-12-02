@@ -315,7 +315,7 @@ gl:
       location: "Localización:"
       longitude: "Lonxitude:"
       marker_text: Lugar da entrada do diario
-      save_button: Gardar
+      save_changes_button: Gardar os cambios
       subject: "Asunto:"
       title: Editar a entrada do diario
       use_map_link: usar o mapa

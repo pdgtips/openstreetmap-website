@@ -320,7 +320,7 @@ ca:
       location: "Ubicació:"
       longitude: "Longitud:"
       marker_text: Localització de l'Entrada del Diari
-      save_button: Guardar
+      save_changes_button: Desa els canvis
       subject: "Assumpte:"
       title: Edita entrada del diari
       use_map_link: usa el mapa

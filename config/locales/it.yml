@@ -317,7 +317,7 @@ it:
       location: "Luogo:"
       longitude: "Longitudine:"
       marker_text: Luogo della voce del diario
-      save_button: Salva
+      save_changes_button: Salva modifiche
       subject: "Oggetto:"
       title: Modifica voce del diario
       use_map_link: utilizza mappa

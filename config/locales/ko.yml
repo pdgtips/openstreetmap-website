@@ -204,7 +204,6 @@ ko:
       location: "위치:"
       longitude: "경도:"
       marker_text: 일지 항목 위치
-      save_button: 저장
       subject: "제목:"
       title: 일지 항목 수정
       use_map_link: 지도 사용

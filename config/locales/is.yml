@@ -302,7 +302,7 @@ is:
       location: "Staðsetning:"
       longitude: "Breiddargráða:"
       marker_text: Staðsetning bloggfærslu
-      save_button: Vista
+      save_changes_button: Vista breytingar
       subject: "Titill:"
       title: Breyta bloggfærslu
       use_map_link: finna á korti

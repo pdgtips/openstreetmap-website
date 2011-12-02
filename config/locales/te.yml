@@ -119,7 +119,7 @@ te:
       latitude: "అక్షాంశం:"
       location: "ప్రాంతం:"
       longitude: "రేఖాంశం:"
-      save_button: భద్రపరచు
+      save_changes_button: మార్పులను భద్రపరచు
       subject: "విషయం:"
     list: 
       in_language_title: "%{language}లో ఉన్న డైరీ పద్దులు"

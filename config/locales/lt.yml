@@ -311,7 +311,7 @@ lt:
       location: "Pozicija:"
       longitude: "Ilguma:"
       marker_text: Dienoraščio įrašo pozicija
-      save_button: Įrašyti
+      save_changes_button: Įrašyti pakeitimus
       subject: "Tema:"
       title: Keisti dienoraščio įrašą
       use_map_link: naudoti žemėlapį

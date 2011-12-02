@@ -318,7 +318,7 @@ hu:
       location: "Hely:"
       longitude: "Földrajzi hosszúság:"
       marker_text: Naplóbejegyzés helye
-      save_button: Mentés
+      save_changes_button: Módosítások mentése
       subject: "Tárgy:"
       title: Naplóbejegyzés szerkesztése
       use_map_link: térkép használata

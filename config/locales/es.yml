@@ -323,7 +323,7 @@ es:
       location: "Ubicación:"
       longitude: "Longitud:"
       marker_text: Lugar de la entrada del diario
-      save_button: Guardar
+      save_changes_button: Guardar cambios
       subject: "Asunto:"
       title: Editar entrada del diario
       use_map_link: Usar mapa

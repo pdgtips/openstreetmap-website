@@ -311,7 +311,7 @@ be-TARASK:
       location: "Месцазнаходжаньне:"
       longitude: "Даўгата:"
       marker_text: Месцазнаходжаньне запісу дзёньніка
-      save_button: Захаваць
+      save_changes_button: Захаваць зьмены
       subject: "Тэма:"
       title: Рэдагаваць запіс у дзёньніку
       use_map_link: на мапе

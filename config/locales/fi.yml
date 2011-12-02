@@ -306,7 +306,7 @@ fi:
       location: "Sijainti:"
       longitude: "Pituuspiiri:"
       marker_text: Päiväkirjamerkinnän sijainti
-      save_button: Tallenna
+      save_changes_button: Tallenna muutokset
       subject: "Aihe:"
       title: Muokkaa päiväkirjamerkintää
       use_map_link: valitse kartalta

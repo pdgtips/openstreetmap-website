@@ -328,7 +328,7 @@ pt-BR:
       location: "Localização:"
       longitude: "Longitude:"
       marker_text: Localização da entrada no diário
-      save_button: Salvar
+      save_changes_button: Salvar Mudanças
       subject: "Assunto:"
       title: Editar entrada do diário
       use_map_link: usar mapa

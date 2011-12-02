@@ -216,7 +216,7 @@ be:
       location: "Месца:"
       longitude: "Даўгата:"
       marker_text: Месцазнаходжанне запісу дзённіку
-      save_button: Запісаць
+      save_changes_button: Запісаць змены
       subject: "Тэма:"
       title: Змяніць запіс дзённіку
       use_map_link: карыстацца картай

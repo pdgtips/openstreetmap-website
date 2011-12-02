@@ -164,7 +164,7 @@ nds:
       location: "Oort:"
       longitude: "Längengraad:"
       marker_text: Oort von’n Indrag
-      save_button: Spiekern
+      save_changes_button: Ännern spiekern
       title: Dagbook-Indrag ännern
       use_map_link: Koort bruken
     list: 

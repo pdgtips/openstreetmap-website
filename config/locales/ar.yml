@@ -317,7 +317,7 @@ ar:
       location: "الموقع:"
       longitude: "خط الطول:"
       marker_text: موقع مدخلة اليومية
-      save_button: احفظ
+      save_changes_button: احفظ التغييرات
       subject: "الموضوع:"
       title: عدّل مدخلة يومية
       use_map_link: استخدم الخريطة

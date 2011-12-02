@@ -307,7 +307,7 @@ aln:
       location: "Lokacioni:"
       longitude: "Gjatësi:"
       marker_text: Vendndodhja Ditari hyrje
-      save_button: Ruje
+      save_changes_button: Ruaj Ndryshimet
       subject: "Titulli:"
       title: hyrje Edit ditar
       use_map_link: Harta e përdorimit

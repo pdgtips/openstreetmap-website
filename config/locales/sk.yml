@@ -289,7 +289,7 @@ sk:
       location: "Poloha:"
       longitude: "Zemepisná dĺžka:"
       marker_text: Umiestnenie položky zápisníka
-      save_button: Uložiť
+      save_changes_button: Uložiť Zmeny
       subject: "Predmet:"
       title: Upraviť záznam denníka
       use_map_link: použiť mapu

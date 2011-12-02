@@ -231,7 +231,7 @@ fa:
       language: "زبان:"
       latitude: "عرض جغرافیایی:"
       longitude: "طول جغرافیایی:"
-      save_button: ذخیره
+      save_changes_button: "ذخیرهٔ تغییرات:"
     location: 
       edit: ویرایش
       view: نمایش

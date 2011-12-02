@@ -79,7 +79,7 @@ ps:
     edit: 
       language: "ژبه:"
       location: "ځای:"
-      save_button: خوندي کول
+      save_changes_button: بدلونونه خوندي کول
       use_map_link: نخشه کارول
     location: 
       edit: سمول

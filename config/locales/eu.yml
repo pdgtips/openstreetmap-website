@@ -172,7 +172,7 @@ eu:
       latitude: "Latitude:"
       location: Kokapena
       longitude: "Longitude:"
-      save_button: Gorde
+      save_changes_button: Aldaketak gorde
       subject: "Gaia:"
       use_map_link: mapa erabili
     location: 

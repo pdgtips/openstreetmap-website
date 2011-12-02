@@ -313,7 +313,7 @@ el:
       location: "Τοποθεσία:"
       longitude: Γεωγραφικό μήκος
       marker_text: Τοποθεσία καταχώρησης ημερολογίου
-      save_button: Αποθήκευση
+      save_changes_button: Αποθήκευση Αλλαγών
       subject: "Θέμα:"
       title: Επεξεργασία καταχώρησης ημερολογίου
       use_map_link: χρήση του χάρτη

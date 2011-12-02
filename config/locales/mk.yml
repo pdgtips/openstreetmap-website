@@ -315,7 +315,7 @@ mk:
       location: "Местоположба:"
       longitude: Геог. должина
       marker_text: Место на дневничкиот запис
-      save_button: Зачувај
+      save_changes_button: Зачувај ги промените
       subject: "Наслов:"
       title: Уреди дневничка ставка
       use_map_link: покажи на карта

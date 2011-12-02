@@ -316,7 +316,7 @@ br:
       location: "Lec'hiadur :"
       longitude: "Hedred :"
       marker_text: Lec'hiadur an enmoned en deizlevr
-      save_button: Enrollañ
+      save_changes_button: Enrollañ ar c'hemmoù
       subject: "Danvez :"
       title: Aozañ an enmoned en deizlevr
       use_map_link: implijout ar gartenn

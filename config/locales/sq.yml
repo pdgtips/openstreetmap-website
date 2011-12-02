@@ -207,7 +207,7 @@ sq:
     edit: 
       language: "Gjuha:"
       location: "Lokacioni:"
-      save_button: Ruje
+      save_changes_button: Ruaj Ndryshimet
     list: 
       older_entries: Shënimet e Vjetra
       user_title: Ditari i %{user}

@@ -331,7 +331,7 @@ fr:
       location: "Lieu:"
       longitude: "Longitude:"
       marker_text: Emplacement de l'entrée du journal
-      save_button: Sauvegarder
+      save_changes_button: Sauvegarder les changements
       subject: "Objet :"
       title: Modifier l'entrée du journal
       use_map_link: Utiliser la carte

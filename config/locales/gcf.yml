@@ -90,7 +90,7 @@ gcf:
       location: "Ki koté:"
       longitude: "Longitid:"
       marker_text: Ola jounal la ka koumansé
-      save_button: Enrèjistré
+      save_changes_button: Enrèjisré tout chanjman
       subject: "Sijè:"
       use_map_link: Sèvi èvè kat la
     list: 

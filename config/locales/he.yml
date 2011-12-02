@@ -196,7 +196,7 @@ he:
       language: ":שפה"
       latitude: ":קו רוחב"
       longitude: ":קו אורך"
-      save_button: לשמירה
+      save_changes_button: שמירת השינויים
     list: 
       in_language_title: רשומות יומן ב%{language}
     location: 

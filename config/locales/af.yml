@@ -237,7 +237,7 @@ af:
       location: "Ligging:"
       longitude: "Lengtegraad:"
       marker_text: Ligging van dagboekinskrywing
-      save_button: Stoor
+      save_changes_button: Stoor wysigings
       subject: "Onderwerp:"
       title: Wysig dagboekinskrywing
       use_map_link: gebruik kaart

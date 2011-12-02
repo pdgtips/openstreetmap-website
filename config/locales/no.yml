@@ -321,7 +321,7 @@
       location: "Posisjon:"
       longitude: "Lengdegrad:"
       marker_text: Lokasjon for dagbokoppføring
-      save_button: Lagre
+      save_changes_button: Lagre endringer
       subject: "Emne:"
       title: Rediger oppføring i dagboka
       use_map_link: bruk kart

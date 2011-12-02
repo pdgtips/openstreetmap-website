@@ -325,7 +325,7 @@ uk:
       location: "Місце:"
       longitude: "Довгота:"
       marker_text: Місце написання нотатки
-      save_button: Зберегти
+      save_changes_button: Зберегти зміни
       subject: "Тема:"
       title: Правити нотатку
       use_map_link: Вказати на мапі

@@ -321,7 +321,7 @@ zh-CN:
       location: 位置：
       longitude: 经度：
       marker_text: 日记条目位置
-      save_button: 保存
+      save_changes_button: 保存更改
       subject: 标题：
       title: 编辑日记条目
       use_map_link: 使用地图

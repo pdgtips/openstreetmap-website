@@ -316,7 +316,7 @@ vi:
       location: "Vị trí:"
       longitude: "Kinh độ:"
       marker_text: Vị trí của mục nhật ký
-      save_button: Lưu
+      save_changes_button: Lưu các Thay đổi
       subject: "Tiêu đề:"
       title: Sửa đổi mục nhật ký
       use_map_link: sử dụng bản đồ

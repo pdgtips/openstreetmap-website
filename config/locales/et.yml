@@ -238,7 +238,7 @@ et:
       latitude: "Laiuskraad:"
       location: "Asukoht:"
       longitude: "Pikkuskraad:"
-      save_button: Salvesta
+      save_changes_button: Salvesta muudatused
       subject: "Teema:"
       use_map_link: kasuta kaarti
     list: 

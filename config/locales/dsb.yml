@@ -324,7 +324,7 @@ dsb:
       location: "Městno:"
       longitude: "Dlinina:"
       marker_text: Městno zapiska dnjownika
-      save_button: Składowaś
+      save_changes_button: Změny składowaś
       subject: "Temowe nadpismo:"
       title: Zapisk dnjownika wobźěłaś
       use_map_link: kórtu wužywaś

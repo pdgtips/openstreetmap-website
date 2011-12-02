@@ -294,7 +294,7 @@ arz:
       location: "الموقع:"
       longitude: "خط الطول:"
       marker_text: موقع مدخله اليومية
-      save_button: احفظ
+      save_changes_button: احفظ التغييرات
       subject: "الموضوع:"
       title: عدّل مدخله يومية
       use_map_link: استخدم الخريطة

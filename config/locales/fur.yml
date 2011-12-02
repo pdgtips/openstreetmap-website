@@ -290,7 +290,7 @@ fur:
       location: "Lûc:"
       longitude: "Longjitudin:"
       marker_text: Lûc de vôs dal diari
-      save_button: Salve
+      save_changes_button: Salve cambiaments
       subject: "Sogjet:"
       title: Cambie vôs dal diari
       use_map_link: dopre mape

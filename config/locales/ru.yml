@@ -331,7 +331,7 @@ ru:
       location: "Место:"
       longitude: "Долгота:"
       marker_text: Место написания заметки
-      save_button: Сохранить
+      save_changes_button: Сохранить изменения
       subject: "Тема:"
       title: Редактирование записи
       use_map_link: Указать на карте

@@ -305,7 +305,7 @@ tl:
       location: "Pook (lokasyon):"
       longitude: "Longhitud:"
       marker_text: Kinalalagay ng ipinasok sa talaarawan
-      save_button: Sagipin
+      save_changes_button: Sagipin ang mga Pagbabago
       subject: "Paksa:"
       title: Baguhin ang ipinasok sa talaarawan
       use_map_link: gamitin ang mapa
